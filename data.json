@@ -1,0 +1,353 @@
+[
+{
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da web",
+    "data_criacao": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+
+{
+    "nome": "Python",
+    "descricao": "O Python é a linguagem da da ciência de dados e IA",
+    "data_criacao": 1991,
+    "link": "https://docs.python.org/pt-br/3.14/"
+},
+
+{
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação versátil e orientada a objetos, amplamente utilizada para desenvolvimento de aplicações web, mobile e desktop.",
+    "data_criacao": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+},
+{
+    "nome": "C#",
+    "descricao": "Desenvolvida pela Microsoft, C# (pronuncia-se 'C Sharp') é uma linguagem moderna, orientada a objetos e usada principalmente para construir aplicações no ecossistema .NET.",
+    "data_criacao": 2000,
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome": "C++",
+    "descricao": "Uma extensão da linguagem C, o C++ é conhecido por seu alto desempenho, sendo muito utilizado em softwares de sistema, jogos e aplicações que exigem muita performance.",
+    "data_criacao": 1985,
+    "link": "https://isocpp.org/documentation"
+},
+{
+    "nome": "TypeScript",
+    "descricao": "Um superset do JavaScript que adiciona tipagem estática opcional à linguagem, ajudando a construir aplicações maiores e mais robustas.",
+    "data_criacao": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+},
+{
+    "nome": "Go",
+    "descricao": "Criada pelo Google, a linguagem Go (ou Golang) é focada em simplicidade, eficiência e concorrência, sendo ideal para programação do lado do servidor e microsserviços.",
+    "data_criacao": 2009,
+    "link": "https://go.dev/doc/"
+},
+{
+    "nome": "Rust",
+    "descricao": "Rust é uma linguagem de programação focada em segurança e desempenho. É conhecida por garantir a segurança de memória sem a necessidade de um coletor de lixo.",
+    "data_criacao": 2010,
+    "link": "https://www.rust-lang.org/pt-BR/learn"
+},
+{
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript declarativa, eficiente e flexível para construir interfaces de usuário baseadas em componentes.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "UI",
+      "framework",
+      "componentes"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programação compilada, tipada estaticamente, desenvolvida pelo Google, focada em simplicidade, concorrência e performance.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "sistemas"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e desenvolvimento ágil de aplicações.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "orientado a documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Um framework que simplifica a criação de aplicações Spring independentes e de nível de produção com configuração mínima.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microsserviços",
+      "produtividade"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que permite desenvolver, enviar e executar aplicações dentro de contêineres leves e portáteis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "conteinerização",
+      "devops",
+      "virtualização",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações conteinerizadas.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "nuvem",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação focada em segurança, especialmente segurança de memória, performance e concorrência.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua simplicidade e facilidade de integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "reatividade"
+    ]
+  },
+  {
+    "nome": "AWS",
+    "descricao": "Amazon Web Services, a plataforma de nuvem mais abrangente e amplamente adotada no mundo, oferecendo mais de 200 serviços completos.",
+    "data_criacao": "2006",
+    "link": "https://aws.amazon.com/",
+    "tags": [
+      "computação em nuvem",
+      "infraestrutura",
+      "cloud computing",
+      "provedor"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta e tempo de execução do lado do servidor para APIs, permitindo que os clientes solicitem exatamente os dados de que precisam.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "linguagem de consulta",
+      "api",
+      "backend",
+      "comunicação de dados"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional open-source, conhecido por sua robustez e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "open-source",
+      "acid"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de desenvolvimento de UI do Google para a criação de aplicações nativas, compiladas a partir de uma única base de código, para mobile, web e desktop.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "desenvolvimento mobile",
+      "framework",
+      "cross-platform",
+      "dart"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming distribuído de alto desempenho, utilizada para construir pipelines de dados em tempo real e aplicativos de streaming.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming de dados",
+      "mensageria",
+      "broker",
+      "big data"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura de nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "IaC",
+      "provisionamento",
+      "nuvem"
+    ]
+  },
+  {
+    "nome": "TensorFlow",
+    "descricao": "Biblioteca open-source desenvolvida pelo Google para computação numérica de alto desempenho, focada em aprendizado de máquina e redes neurais.",
+    "data_criacao": "2015",
+    "link": "https://www.tensorflow.org/",
+    "tags": [
+      "inteligência artificial",
+      "aprendizado de máquina",
+      "deep learning",
+      "biblioteca"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Framework CSS utilitário que permite construir designs personalizados rapidamente, compondo classes de baixo nível diretamente no markup.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "framework css",
+      "frontend",
+      "design system",
+      "utilitário"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Framework de teste unificado e agradável, focado em simplicidade, usado principalmente para testar código JavaScript e aplicações React.",
+    "data_criacao": "2014",
+    "link": "https://jestjs.io/",
+    "tags": [
+      "testing",
+      "teste unitário",
+      "frontend",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execução de código open-source e cross-platform que permite executar JavaScript do lado do servidor.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "ambiente de execução",
+      "backend",
+      "servidor",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna, tipada estaticamente, que compila para a JVM e é a linguagem preferida para o desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "android",
+      "backend",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "Redux",
+    "descricao": "Padrão de gerenciamento de estado previsível para aplicações, frequentemente usado com React, seguindo o princípio de fluxo de dados unidirecional.",
+    "data_criacao": "2015",
+    "link": "https://redux.js.org/",
+    "tags": [
+      "gerenciamento de estado",
+      "frontend",
+      "arquitetura",
+      "biblioteca"
+    ]
+  },
+  {
+    "nome": "Nginx",
+    "descricao": "Servidor web e proxy reverso de código aberto conhecido por seu alto desempenho, estabilidade, e baixo uso de recursos.",
+    "data_criacao": "2004",
+    "link": "https://www.nginx.com/",
+    "tags": [
+      "servidor web",
+      "proxy reverso",
+      "performance",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Serverless Framework",
+    "descricao": "Framework CLI que facilita a implantação e gerenciamento de arquiteturas serverless em provedores como AWS Lambda e Google Cloud Functions.",
+    "data_criacao": "2015",
+    "link": "https://www.serverless.com/",
+    "tags": [
+      "framework",
+      "serverless",
+      "faas",
+      "nuvem"
+    ]
+  },
+  {
+    "nome": "InfluxDB",
+    "descricao": "Banco de dados Time Series (TSDB) open-source, otimizado para lidar com grandes volumes de dados carimbados no tempo, como métricas e eventos.",
+    "data_criacao": "2013",
+    "link": "https://www.influxdata.com/",
+    "tags": [
+      "banco de dados",
+      "time series",
+      "monitoramento",
+      "iot"
+    ]
+  },
+  {
+    "nome": "npm",
+    "descricao": "Gerenciador de pacotes padrão para o ecossistema Node.js, amplamente utilizado para instalar e gerenciar dependências de projetos.",
+    "data_criacao": "2010",
+    "link": "https://www.npmjs.com/",
+    "tags": [
+      "gerenciador de pacotes",
+      "ferramenta",
+      "node.js",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "GitLab CI",
+    "descricao": "Ferramenta de Integração Contínua e Entrega Contínua (CI/CD) totalmente integrada ao GitLab, utilizada para automatizar pipelines de software.",
+    "data_criacao": "2014",
+    "link": "https://docs.gitlab.com/ee/ci/",
+    "tags": [
+      "ci/cd",
+      "devops",
+      "automação",
+      "pipeline"
+    ]
+    }
+]
